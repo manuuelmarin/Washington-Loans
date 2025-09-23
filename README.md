@@ -9,3 +9,6 @@ It involved end-to-end analysis of a mortgage lending database for Washington St
 -Creating predictive machine learning models in Python. 
 
 Each phase was accompanied by a presentation, with the objective of forecasting approval and denial trends and creating customer profiles.
+
+The Data Set could be obtained in the following link:
+https://www.kaggle.com/datasets/miker400/washington-state-home-mortgage-hdma2016/data
